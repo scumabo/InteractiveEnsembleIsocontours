@@ -2,9 +2,12 @@
 This is the source code of the paper "An Interactive Framework for Visualization of Weather Forecast Ensembles"  in IEEE Transactions on Visualization and Computer Graphics, Special Issue on IEEE VIS2018. The lightweight source code includes all key features and provides two demo data used in the paper. 
 
 # Quick Start
-**- Install M_Map https://www.eoas.ubc.ca/~rich/map.html**
-**- Install Piotr's Computer Vision Matlab Toolbox https://pdollar.github.io/toolbox/**
-**Run "Ensemble.m" to start the interactive tool. Follow the steps, shown in the image below, to explore ensemble isocontours.  **
+- Install M_Map https://www.eoas.ubc.ca/~rich/map.html
+
+- Install Piotr's Computer Vision Matlab Toolbox https://pdollar.github.io/toolbox/
+
+- Run "Ensemble.m" to start the interactive tool. Follow the steps, shown in the image below, to explore ensemble isocontours.  
+
 ![Alt text](Doc.png?raw=true "Interface Overview")
 **1. Select input data:** We provide two demo datasets for users to reproduce the experiments in the paper. 
 
